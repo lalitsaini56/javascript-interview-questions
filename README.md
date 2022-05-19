@@ -1,12 +1,12 @@
 # JavaScript Interview Questions & Answers
 
-> Click :star:if you like the project. Pull Requests are highly appreciated. Follow me [@SudheerJonna](https://twitter.com/SudheerJonna) for technical updates.
+> Click :star:if you like the project. Pull Requests are highly appreciated. Follow me [Lalit Saini](https://www.linkedin.com/in/lalit-saini-411374aa/) for technical updates.
 
 Go to [Coding Exercise](#coding-exercise) for coding specific questions
 
 ## Download PDF/Epub formats
 
-You can download the PDF and Epub version of this repository from the latest run on the [actions tab](https://github.com/sudheerj/JavaScript-Interview-Questions/actions).
+You can download the PDF and Epub version of this repository from the latest run on the [actions tab](https://github.com/lalitsaini56/JavaScript-Interview-Questions/actions).
 
 ---
 
