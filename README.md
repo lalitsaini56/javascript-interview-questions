@@ -489,7 +489,7 @@ You can download the PDF and Epub version of this repository from the latest run
 
       ```javascript
       var object = {
-           name: "Sudheer"
+           name: "Sudheer",
            age: 34
       };
 
